@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>6F6736AD-421B-4DD1-8BA8-F37AE1F17E0D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>BioApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>BFDAA4717EEB9965546778FF65FDEFE74CECE3C5</key>
 		<string>github.com:ga-students/MOB-DC-3.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Classwork/Week 1/BioApp/BioApp.xcodeproj/project.xcworkspace</string>
+	<string>Classwork/Week 1/BioApp/BioApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BFDAA4717EEB9965546778FF65FDEFE74CECE3C5</key>
